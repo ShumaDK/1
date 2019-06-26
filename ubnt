@@ -3,3 +3,6 @@ config.system_cfg.f09fc20fefc0.1=switch.dhcp_snoop.status=disabled
 config.system_cfg.f09fc2c296fa.1=switch.dhcp_snoop.status=disabled
 config.system_cfg.f09fc2688fdd.1=switch.dhcp_snoop.status=disabled
 config.system_cfg.f09fc21293f4.1=switch.dhcp_snoop.status=disabled
+
+
+^(.*?)$\s+?^(?=.*^\1$)
